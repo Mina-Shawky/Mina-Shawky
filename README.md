@@ -12,8 +12,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-shawky-gamil/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mina%20Shawky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-shawky-gamil/)
 </div>
 
 <hr>
