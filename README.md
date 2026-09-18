@@ -144,7 +144,7 @@ class AboutMe
 * 💻 I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 * 🚀 I like building **Web Applications and RESTful APIs**.
-* 💡 Ask me about **C#, ASP.NET Core, Web APIs, MVC, Entity Framework Core, LINQ, SQL Server, Swagger, or Postman**.
+* 💡 Ask me about **C#, ASP.NET Core, Web APIs, MVC, EF Core, LINQ, SQL Server, Swagger, or Postman**.
 * 🏗️ I enjoy working with **Backend Development, APIs, Databases, and Web Applications**.
 * 📚 Always learning and exploring new technologies in the **.NET ecosystem**.
 * ⚡ Fun fact: **I enjoy solving problems and turning ideas into working applications.**
