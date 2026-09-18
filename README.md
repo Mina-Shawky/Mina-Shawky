@@ -11,13 +11,13 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Mina-Shawky\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mina-Shawky\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMina-Shawky\&count_bg=%2379C83D\&title_bg=%23555555\&icon=github.svg\&icon_color=%23E7E7E7\&title=HITS\&edge_flat=false)
+![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMina-Shawky\&count_bg=%2379C83D\&title_bg=%23555555\&icon=github.svg\&icon_color=%23E7E7E7\&title=HITS\&edge_flat=false)
 
 </div>
 
-<hr></hr>
+<hr>
 
 ![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -110,11 +110,12 @@ class AboutMe
 }
 ```
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I like building **Web Applications and RESTful APIs**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **C#, ASP.NET Core, Web APIs, MVC, EF Core, LINQ, SQL Server, Swagger, or Postman**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   I enjoy working with **Backend Development, APIs, Databases, and Web Applications**.
-*   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: **I enjoy turning ideas into real-world applications.**<br>
+* 💻 I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
+* 🚀 I like building **Web Applications and RESTful APIs**.
+* 💡 Ask me about **C#, ASP.NET Core, Web APIs, MVC, Entity Framework Core, LINQ, SQL Server, Swagger, or Postman**.
+* 🏗️ I enjoy working with **Backend Development, APIs, Databases, and Web Applications**.
+* 📚 Always learning and exploring new technologies in the **.NET ecosystem**.
+* ⚡ Fun fact: **I enjoy solving problems and turning ideas into working applications.**
 
 <div align="center">
 
@@ -133,7 +134,7 @@ class AboutMe
 
 <br>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
 
 <br><br>
 
@@ -143,16 +144,24 @@ class AboutMe
 
 </details>
 
-<hr></hr>
+<hr>
 
 **Code Cycle**<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+![Coding](https://img.shields.io/badge/💻_Coding-181717?style=for-the-badge)
+  
+![Debugging](https://img.shields.io/badge/🐛_Debugging-181717?style=for-the-badge)
+  
+![It Works](https://img.shields.io/badge/🚀_It_Works!-181717?style=for-the-badge)
+  
+![Refactoring](https://img.shields.io/badge/🔄_Refactoring-181717?style=for-the-badge)
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/-->
+<br><br>
+
+<div align="center">
+
+### 🚀 Code. Build. Learn. Repeat.
+
+</div>
 
 </div>
