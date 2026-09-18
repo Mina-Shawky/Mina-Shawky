@@ -38,12 +38,13 @@
 <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC">
 <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API">
 
-<br>
-
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="Entity Framework Core">
 <img src="https://img.shields.io/badge/LINQ-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="LINQ">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+<br>
+
+
 
 
 
