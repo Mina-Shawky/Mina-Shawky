@@ -11,8 +11,17 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mina%20Shawky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-shawky-gamil/)
+<p align="center">
+    <a href="https://github.com/Mina-Shawky" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/mina-shawky-gamil/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="YOUR_PORTFOLIO_URL" target="_blank">
+        <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-4A4A4A?style=flat-square&logo=google-chrome&logoColor=white">
+    </a>
+</p>
 </div>
 
 <hr>
