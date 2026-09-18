@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 
 </p>
-
+```csharp
 // tools_I_use organized
 
 class AboutMe
@@ -138,6 +138,7 @@ class AboutMe
         "Visual Studio Code"
     ];
 }
+```
 
 * 💻 I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
 * 🚀 I like building **Web Applications and RESTful APIs**.
