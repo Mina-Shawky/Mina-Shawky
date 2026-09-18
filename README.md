@@ -159,11 +159,11 @@ class AboutMe
 
 <a href="https://github.com/Mina-Shawky">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mina-Shawky&show_icons=true&theme=nord&hide_border=true&count_private=true" width="32.5%">
-
-<img src="https://streak-stats.demolab.com/?user=Mina-Shawky&theme=nord&hide_border=true" width="32.5%">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mina-Shawky&theme=nord_dark" width="32.5%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mina-Shawky&theme=nord_dark&utcOffset=3" width="32.5%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="32.5%">
 
 </a>
 
@@ -172,13 +172,10 @@ class AboutMe
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mina-Shawky&theme=nord_dark&utcOffset=3" width="45%">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
 
 </details>
+
 
 
 
