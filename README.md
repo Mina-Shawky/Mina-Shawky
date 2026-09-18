@@ -153,25 +153,21 @@ class AboutMe
 
 
 
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
-<div align="center">
-
-<a href="https://github.com/Mina-Shawky">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mina-Shawky&show_icons=true&theme=nord&hide_border=true&count_private=true" width="32.5%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Shawky&layout=compact&theme=nord&hide_border=true" width="32.5%">
-
-<img src="https://streak-stats.demolab.com?user=Mina-Shawky&theme=nord&hide_border=true" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
-<details> <summary>More stats</summary>
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-<br>
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
-
+</details>
   
 <hr></hr>
 
