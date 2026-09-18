@@ -30,25 +30,19 @@
 <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" alt="Tools I use">
 <img src="https://img.shields.io/badge/-%3A-orange" alt="semicolon">
 
-<br>
-
 <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=flat&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt=".NET">
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core">
 <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC">
 <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API">
 <img src="https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
-
-<br>
-
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white" alt="JSON">
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="Entity Framework Core">
 <img src="https://img.shields.io/badge/LINQ-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="LINQ">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white" alt="JSON">
-
-<br>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -56,14 +50,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery">
 <img src="https://img.shields.io/badge/AJAX-0769AD.svg?style=flat&logo=jquery&logoColor=white" alt="AJAX">
-
-<br>
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-
-<br>
-
 <img src="https://img.shields.io/badge/GIT-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black" alt="Swagger">
