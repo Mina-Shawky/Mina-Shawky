@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core">
 <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC">
 <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API">
+<img src="https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
 
 
 <br>
@@ -56,7 +57,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery">
-
+<img src="https://img.shields.io/badge/AJAX-0769AD.svg?style=flat&logo=jquery&logoColor=white" alt="AJAX">
 <br>
 
 <img src="https://img.shields.io/badge/GIT-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
