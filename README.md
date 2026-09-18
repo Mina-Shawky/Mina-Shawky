@@ -165,13 +165,7 @@ class AboutMe
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mina-Shawky&theme=nord_dark" width="45%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mina-Shawky&theme=nord_dark" width="45%">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark">
 
 </details>
 
@@ -179,19 +173,21 @@ class AboutMe
 
 **Code Cycle**<br>
 
-![Coding](https://img.shields.io/badge/💻_Coding-181717?style=for-the-badge)
-  
-![Debugging](https://img.shields.io/badge/🐛_Debugging-181717?style=for-the-badge)
-  
-![It Works](https://img.shields.io/badge/🚀_It_Works!-181717?style=for-the-badge)
-  
-![Refactoring](https://img.shields.io/badge/🔄_Refactoring-181717?style=for-the-badge)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" alt="Coding">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" alt="Debugging">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="25" alt="It Works">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" alt="Refactoring">
 
 <br><br>
 
 <div align="center">
 
 ### 🚀 Code. Build. Learn. Repeat.
+
+</div>
 
 </div>
 
