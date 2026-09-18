@@ -3,11 +3,17 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong><summary>Busy coding & Building :</summary></strong></p>
+<summary><strong>🚀 Busy Coding & Building...</strong></summary>
 
-💻 Full-Stack .NET Development <br>
-🚀 ASP.NET Core & Web APIs <br>
-🔧 Building Web Applications & RESTful APIs
+<br>
+
+💻 <strong>Full-Stack .NET Development</strong><br>
+🚀 <strong>ASP.NET Core & Web APIs</strong><br>
+🔧 <strong>Building Web Applications & RESTful APIs</strong><br>
+🧠 <strong>Clean Code & Scalable Architecture</strong><br>
+⚡ <strong>Turning Ideas Into Real Applications</strong>
+
+<br>
 
 </details>
 
