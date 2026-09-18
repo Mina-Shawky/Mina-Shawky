@@ -3,19 +3,21 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong><summary>Busy Coding & Building :</summary></strong></p>
+<p><strong><summary>Busy coding & Building :</summary></strong></p>
 
-💻 Full-Stack .NET Development
-🚀 ASP.NET Core & Web Applications
-🎯 Building clean and scalable web solutions
+💻 Full-Stack .NET Development <br>
+🚀 ASP.NET Core & Web APIs <br>
+🔧 Building Web Applications & RESTful APIs
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mina-Shawky\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Mina-Shawky\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMina-Shawky\&count_bg=%2379C83D\&title_bg=%23555555\&icon=github.svg\&icon_color=%23E7E7E7\&title=HITS\&edge_flat=false)
 
 </div>
 
-<hr>
+<hr></hr>
 
 ![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -23,11 +25,15 @@
 ![C%23](https://img.shields.io/badge/C%23-512BD4.svg?style=flat\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
+![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
 
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4.svg?style=flat\&logo=dotnet\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat\&logo=microsoftsqlserver\&logoColor=white)
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat\&logo=swagger\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat\&logo=postman\&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat\&logo=javascript\&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=flat\&logo=jquery\&logoColor=white)
@@ -35,12 +41,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat\&logo=bootstrap\&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032.svg?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat\&logo=github\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat\&logo=visual-studio\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat\&logo=visual%20studio%20code\&logoColor=white)
 
 ```csharp
+// tools_I_use organized
+
 class AboutMe
 {
     public string Name => "Mina Shawky Gamil";
@@ -58,6 +66,7 @@ class AboutMe
     [
         "ASP.NET Core",
         "ASP.NET Core MVC",
+        "ASP.NET Core Web APIs",
         "Entity Framework Core",
         "LINQ",
         "REST APIs"
@@ -79,6 +88,12 @@ class AboutMe
         "Entity Framework Core"
     ];
 
+    public string[] API_Tools =>
+    [
+        "Swagger",
+        "Postman"
+    ];
+
     public string[] DesignPatterns =>
     [
         "MVC Architecture",
@@ -95,88 +110,49 @@ class AboutMe
 }
 ```
 
-* 💻 I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
-* 🚀 I enjoy building **web applications, backend systems, and database-driven applications**.
-* 💡 Ask me about **C#, ASP.NET Core, MVC, Entity Framework Core, LINQ, SQL Server, or REST APIs**.
-* 🏗️ I enjoy designing and building **clean, maintainable, and scalable applications**.
-* 📚 Always learning and exploring new technologies in the **.NET ecosystem**.
-* ⚡ Fun fact: **I love solving problems and turning ideas into working applications.**
-
-<hr>
-
-## 📊 GitHub Stats
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I like building **Web Applications and RESTful APIs**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **C#, ASP.NET Core, Web APIs, MVC, EF Core, LINQ, SQL Server, Swagger, or Postman**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   I enjoy working with **Backend Development, APIs, Databases, and Web Applications**.
+*   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: **I enjoy turning ideas into real-world applications.**<br>
 
 <div align="center">
 
 <a href="https://github.com/Mina-Shawky">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mina-Shawky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mina-Shawky&show_icons=true&theme=nord&hide_border=true&count_private=true" width="32.5%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Shawky&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Shawky&layout=compact&theme=nord&hide_border=true" width="32.5%">
+
+<img src="https://streak-stats.demolab.com?user=Mina-Shawky&theme=nord&hide_border=true" width="32.5%">
 
 </a>
 
-</div>
-
 <details>
-<summary>More GitHub Stats</summary>
+  <summary>More stats</summary>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=tokyonight" width="95%" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="95%">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mina-Shawky&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mina-Shawky&theme=nord_dark" width="45%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mina-Shawky&theme=tokyonight" width="45%" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mina-Shawky&theme=nord_dark" width="45%">
 
 </details>
 
-<hr>
+<hr></hr>
 
-## 💻 Code Cycle
+**Code Cycle**<br>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing-svg.gif" width="0">
-
-<img src="https://img.shields.io/badge/💻-Coding-181717?style=for-the-badge" />
-
-  
-
-<img src="https://img.shields.io/badge/🐛-Debugging-181717?style=for-the-badge" />
-
-  
-
-<img src="https://img.shields.io/badge/🚀-It%20Works!-181717?style=for-the-badge" />
-
-  
-
-<img src="https://img.shields.io/badge/🔄-Refactoring-181717?style=for-the-badge" />
-
-</div>
-
-<hr>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Mina-Shawky">
-<img src="https://img.shields.io/badge/GitHub-Mina--Shawky-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🚀 Code. Build. Learn. Repeat.
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/-->
 
 </div>
