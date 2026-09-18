@@ -65,7 +65,6 @@
 
 </p>
 
-```csharp
 // tools_I_use organized
 
 class AboutMe
@@ -77,18 +76,23 @@ class AboutMe
     public string[] ProgrammingLanguages =>
     [
         "C#",
+        "C++",
+        "Python",
         "SQL",
-        "JavaScript"
+        "JavaScript",
+        "TypeScript"
     ];
 
     public string[] Backend =>
     [
+        ".NET",
         "ASP.NET Core",
         "ASP.NET Core MVC",
         "ASP.NET Core Web APIs",
         "Entity Framework Core",
         "LINQ",
-        "REST APIs"
+        "REST APIs",
+        "JWT"
     ];
 
     public string[] Frontend =>
@@ -97,17 +101,24 @@ class AboutMe
         "CSS3",
         "Bootstrap",
         "JavaScript",
+        "TypeScript",
         "jQuery",
+        "AJAX",
         "Razor Views"
     ];
 
     public string[] Database =>
     [
         "SQL Server",
-        "Entity Framework Core"
+        "MongoDB"
     ];
 
-    public string[] API_Tools =>
+    public string[] DataFormats =>
+    [
+        "JSON"
+    ];
+
+    public string[] APITools =>
     [
         "Swagger",
         "Postman"
@@ -127,7 +138,6 @@ class AboutMe
         "Visual Studio Code"
     ];
 }
-```
 
 * 💻 I’m currently improving my skills in **ASP.NET Core and Full-Stack .NET Development**.
 * 🚀 I like building **Web Applications and RESTful APIs**.
