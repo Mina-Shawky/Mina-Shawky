@@ -159,9 +159,9 @@ class AboutMe
 
 <a href="https://github.com/Mina-Shawky">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mina-Shawky&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mina-Shawky&theme=nord_dark" width="49%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mina-Shawky&theme=nord_dark&utcOffset=3" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mina-Shawky&theme=nord_dark&utcOffset=3" width="49%">
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mina-Shawky&theme=nord_dark" width="32.5%"> -->
 
